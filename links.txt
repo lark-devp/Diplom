@@ -1,0 +1,5 @@
+Готовый анализатор сетевого трафика СУБД Elastic Packetbeat: https://github.com/elastic/beats/tree/main/packetbeat
+Документация: https://www.elastic.co/docs/reference/beats/packetbeat
+Сборка TCP-потока: https://github.com/google/gopacket/tree/master/tcpassembly
+Библиотека парсинга протокола PostgreSQL: https://github.com/jackc/pgproto3
+Парсинг SQL-запросов в абстрактное синтаксическое дерево (AST): https://github.com/pganalyze/pg_query_go
